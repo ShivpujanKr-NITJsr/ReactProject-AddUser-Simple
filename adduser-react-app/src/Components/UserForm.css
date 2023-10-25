@@ -1,0 +1,19 @@
+#un,#age {
+    display: block;
+    font-weight: bold;
+    
+}
+
+.local {
+    background-color: rgb(85, 42, 165);
+    
+}
+
+#na,#ag{
+    display: block;
+    line-height: 1.5rem;
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+}
+
